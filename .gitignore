@@ -1,0 +1,27 @@
+# Unity generated folders
+Library/
+Temp/
+Obj/
+Builds/
+Logs/
+UserSettings/
+
+# Visual Studio / Rider
+.vs/
+*.csproj
+*.sln
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+
+# Android / iOS / build artifacts
+*.apk
+*.aab
+*.xcodeproj
+*.xcworkspace
+
+# OS generated files
+.DS_Store
+Thumbs.db
